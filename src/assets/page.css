@@ -1,0 +1,14 @@
+.layout{
+    /* border: 1px solid black; */
+    font-size: 13px;
+    background-color: #F3F3F3;
+    height: 100vh;
+    box-shadow: -3px 2px 36px -20px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -3px 2px 36px -20px rgba(0,0,0,0.75);
+    -moz-box-shadow: -3px 2px 36px -20px rgba(0,0,0,0.75);
+    border-radius: 25px 0px 0px 25px;
+    padding: 40px 30px;
+    max-height: 100vh;
+    overflow-y: auto;
+}
+
